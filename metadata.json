@@ -1,0 +1,6 @@
+{
+  "name": "DeepGuard: Deepfake Document Detector",
+  "description": "A production-ready system for detecting forged and AI-generated documents using advanced image forensics and AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
